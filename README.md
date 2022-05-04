@@ -33,6 +33,7 @@
 `mvn spring-boot:run`
 #### Stop spring boot
 `ctrl c`
+https://www.baeldung.com/spring-boot-run-maven-vs-executable-jar
 ![]()
 ![]()
 ![]()
