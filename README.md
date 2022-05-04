@@ -34,7 +34,9 @@
 #### Stop spring boot
 `ctrl c`
 https://www.baeldung.com/spring-boot-run-maven-vs-executable-jar
-![]()
+
+#### Add hibernate maven dependency
+![](./images/Screen%20Shot%202022-05-04%20at%202.38.15%20PM.png)
 ![]()
 ![]()
 ![]()
