@@ -25,6 +25,6 @@
 ![](./images/Start-a-String-application/Screen%20Shot%202022-05-03%20at%208.22.49%20PM.png)
 ![](./images/Start-a-String-application/Screen%20Shot%202022-05-03%20at%208.33.24%20PM.png)
 ![](./images/Start-a-String-application/Screen%20Shot%202022-05-03%20at%208.33.34%20PM.png)
-![]()
+![](./images/Start-a-String-application/Screen%20Shot%202022-05-03%20at%208.56.52%20PM.png)
 ![]()
 ![]()
