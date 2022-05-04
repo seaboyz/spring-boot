@@ -28,6 +28,9 @@
 ![](./images/Start-a-String-application/Screen%20Shot%202022-05-03%20at%208.56.52%20PM.png)
 ### Spring Boot startup steps
 ![](./images/startup/Screen%20Shot%202022-05-03%20at%209.01.08%20PM.png)
+
+#### Start spring boot from maven
+`mvn spring-boot:run`
 ![]()
 ![]()
 ![]()
