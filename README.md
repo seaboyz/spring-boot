@@ -31,6 +31,8 @@
 
 #### Start spring boot from maven
 `mvn spring-boot:run`
+#### Stop spring boot
+`ctrl c`
 ![]()
 ![]()
 ![]()
