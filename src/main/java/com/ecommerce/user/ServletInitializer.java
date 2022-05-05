@@ -1,4 +1,4 @@
-package com.ecomerce.user;
+package com.ecommerce.user;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

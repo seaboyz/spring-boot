@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch UserApplication",
+            "request": "launch",
+            "mainClass": "com.ecommerce.user.UserApplication",
+            "projectName": "user"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-UserApplication<user>",
             "request": "launch",
             "cwd": "${workspaceFolder}",

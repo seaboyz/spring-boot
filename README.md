@@ -37,8 +37,11 @@ https://www.baeldung.com/spring-boot-run-maven-vs-executable-jar
 
 #### Add hibernate maven dependency
 ![](./images/Screen%20Shot%202022-05-04%20at%202.38.15%20PM.png)
-![]()
-![]()
+
+#### Add lombok
+![](./images/lombok/Screen%20Shot%202022-05-05%20at%201.53.48%20PM.png)
+![](./images/lombok/Screen%20Shot%202022-05-05%20at%201.41.09%20PM.png)
+>https://projectlombok.org/features/all
 ![]()
 ![]()
 ![]()
