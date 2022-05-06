@@ -1,4 +1,4 @@
-package com.ecommerce.user;
+package com.ecommerce;
 
 import lombok.Data;
 import lombok.Getter;

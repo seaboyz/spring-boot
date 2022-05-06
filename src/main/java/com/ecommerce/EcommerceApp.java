@@ -1,13 +1,13 @@
-package com.ecommerce.user;
+package com.ecommerce;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserApplication {
+public class EcommerceApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserApplication.class, args);
+		SpringApplication.run(EcommerceApp.class, args);
 
 		User newUser = new User();
 
