@@ -9,12 +9,7 @@ public class EcommerceApp {
 	public static void main(String[] args) {
 		SpringApplication.run(EcommerceApp.class, args);
 
-		User newUser = new User();
-
-		newUser.setUsername("seaboyz");
-
-		System.out.println(newUser.getUsername());
-
+		System.out.println("Hello World");
 	}
 
 }
